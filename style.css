@@ -3,7 +3,29 @@ body {
   font-weight: 300;
   background: url(linedpaper.png) repeat;
 }
+img {
+	width:200px;
+}
 #wrapper {
   width: 960px;
   margin: 20px auto;
+}
+/* Making the H orange*/
+h1, h2, h3 {
+	color: blue;
+}
+h4 {
+	color: red;
+}
+#Summary {
+	color: red;
+}
+.unicorn {
+	color: purple;
+}
+h1, h2, h3 {
+	font-stype: italic;
+}
+p.italic {
+	font-style: italic
 }
