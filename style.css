@@ -24,8 +24,11 @@ h4 {
 	color: purple;
 }
 h1, h2, h3 {
-	font-stype: italic;
+	font-style: italic;
 }
-p.italic {
-	font-style: italic
+#italic {
+	font-style: italic;
+}
+img { 
+	border: 10px solid blue;
 }
